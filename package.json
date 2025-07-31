@@ -1,0 +1,19 @@
+{
+  "name": "01_todoapp_cicd_docker",
+  "version": "1.0.0",
+  "description": "This project is a simple Todo web application deployed using Docker and GitHub Actions. It demonstrates a full DevOps pipeline, from development to deployment.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
